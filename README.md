@@ -1,4 +1,4 @@
-# Xamarin Studio
+# Xamarin Studio 6.1.2
 
 Stand-alone Xamarin Studio is deprecated, since I really enjoy the GUI I saved the original files.
 
